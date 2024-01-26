@@ -23,8 +23,7 @@ export class Header extends Component {
                         </select>
 
                         <a className="navbar-brand d-flex ml-auto display-2 text-dark fs-2 fw-bold text-uppercase "
-                            style={{ fontFamily: 'NHaasGroteskDSPro-65Md'}} href="/">Crypto 
-                            Dashboard</a>
+                            style={{ fontFamily: 'NHaasGroteskDSPro-65Md'}} href="/">Crypto-Board</a>
 
                     </div>
                 </nav>
